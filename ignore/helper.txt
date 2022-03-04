@@ -1,0 +1,1 @@
+.gitignore is used to untrack the files. you can create .ignore file and git the files that u dont want to get tracked for example npm during react
