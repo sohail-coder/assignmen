@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 in file 1 
+=======
+file 2
+>>>>>>> merge-conflict-brnch1
