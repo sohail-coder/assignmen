@@ -1,0 +1,1 @@
+-f for cleaning untracked files, -f -d to remove directories,-f -x to remove ignored files
